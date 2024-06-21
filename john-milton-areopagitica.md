@@ -9,7 +9,6 @@ Text available at Project Gutenberg:
 https://www.gutenberg.org/files/608/608-h/608-h.htm
 
 I figured Milton wanted this content out there regarless of license. Him being into tracts, I take it he'd like this work floating out there in markdown format as well. 
-
 ---
 
 # *AREOPAGITICA;*
@@ -23,6 +22,7 @@ I figured Milton wanted this content out there regarless of license. Him being i
 > Χρηστόν τι βούλευμ᾽ ἐς μέσον φέρειν ἔχων.  
 > Καὶ ταῦθ᾽ ὁ χρῄζων, λαμπρός ἐσθ᾽, ὁ μὴ θέλων  
 > Σιγᾷ, τί τούτων ἔστ᾽ ἰσαίτερον πόλει;  
+
 Euripid. Hicetid.
 
 ---
@@ -32,6 +32,7 @@ Euripid. Hicetid.
 > *Which he who can, and will, deserv's high praise,*  
 > *Who neither can nor will, may hold his peace;*  
 > *What can be juster in a State than this?*  
+
 Euripid. Hicetid.
 
 ---
@@ -54,19 +55,29 @@ In *Athens* where Books and Wits were ever busier then in any other part of *Gre
 By this time the Emperors were become Christians, whose discipline in this point I doe not finde to have bin more severe then what was formerly in practice. The Books of those whom they took to be grand Hereticks were examin'd, refuted, and condemn'd in the general Councels; and not till then were prohibited, or burnt by autority of the Emperor. As for the writings of Heathen authors, unlesse they were plaine invectives against Christianity, as those of *Porphyrius* and *Proclus*, they met with no interdict that can be cited, till about the year 400. in a *Carthaginian* Councel, wherein Bishops themselves were forbid to read the Books of Gentiles, but Heresies they might read: while others long before them on the contrary scrupl'd more the Books of Hereticks, then of Gentiles. And that the primitive Councels and Bishops were wont only to declare what Books were not commendable, passing no furder, but leaving it to each ones conscience to read or to lay by, till after the yeare 800. is observ'd already by *Padre Paolo* the great unmasker of the *Trentine* Councel. After which time the Popes of *Rome*, engrossing what they pleas'd of Politicall rule into their owne hands, extended their dominion over mens eyes, as they had before over their judgements, burning and prohibiting to be read, what they fancied not; yet sparing in their censures, and the Books not many which they so dealt with: till *Martin* the 5. by his Bull not only prohibited, but was the first that excommunicated the reading of hereticall Books; for about that time *Wicklef* and *Husse* growing terrible, were they who first drove the Papall Court to a stricter policy of prohibiting. Which cours *Leo* the 10, and his successors follow'd, untill the Councell of Trent, and the Spanish Inquisition engendring together brought forth, or perfeted those Catalogues, and expurging Indexes that rake through the entralls of many an old good Author, with a violation wors then any could be offer'd to his tomb. Nor did they stay in matters Hereticall, but any subject that was not to their palat, they either condemn'd in a prohibition, or had it strait into the new Purgatory of an Index. To fill up the measure of encroachment, their last invention was to ordain that no Book, pamphlet, or paper should be Printed (as if S. *Peter* had bequeath'd them the keys of the Presse also out of Paradise) unlesse it were approv'd and licenc't under the hands of 2 or 3 glutton Friers. For example:
 
 > Let the Chancellor *Cini* be pleas'd to see if in this present work be contain'd ought that may withstand the Printing.
+>
 >		*Vincent Rabbatta*, Vicar of *Florence*.
+>
 > I have seen this present work, and finde nothing athwart the Catholick faith and good manners: in witness whereof I have given, &c.
+>
 >		*Nicolò Cini*, Chancellor of *Florence*.
+>
 > Attending the precedent relation, it is allow'd that this present work of *Davanzati* may be printed.
+>
 >		*Vincent Rabbatta*, &c.
+>
 > It may be printed, *July* 15.
+>
 >		Friar *Simon Mompei d'Amelia*, Chancellor of the holy office in *Florence*.
 
 Sure they have a conceit, if he of the bottomlesse pit had not long since broke prison, that this quadruple exorcism would barre him down. I fear their next designe will be to get into their custody the licensing of that which they say *Claudius* intended, but went not through with. Voutsafe to see another of their forms the Roman stamp:
 
 > *Imprimatur*, If it seem good to the reverend Master of the holy Palace.
+>
 >		*Belcastro* Vicegerent.
+>
 > *Imprimatur*
+>
 >		Friar *Nicolò Rodolphi* Master of the holy Palace.
 
 Sometimes 5 *Imprimaturs* are seen together dialogue-wise in the Piatza of one Title page, complementing and ducking each to other with their shav'n reverences, whether the Author, who stands by in perplexity at the foot of his Epistle, shall to the Presse or to the spunge. These are the prety responsories, these are the dear Antiphonies, that so bewitcht of late our Prelats, and their Chaplaines with the goodly Eccho they made; and besotted us to the gay imitation of a lordly *Imprimatur*, one from Lambeth house, another from the West end of *Pauls*; so apishly Romanizing, that the word of command still was set downe in Latine; as if the learned Grammaticall pen that wrote it, would cast no ink without Latine: or perhaps, as they thought, because no vulgar tongue was worthy to expresse the pure conceit of an *Imprimatur*; but rather, as I hope, for that our English, the language of men ever famous, and formost in the atchievements of liberty, will not easily finde servile letters anow to spell such a dictatorie presumption in English. And thus ye have the Inventors and the originall of Book-licencing ript up and drawn as lineally as any pedigree. We have it not, that can be heard of, from any ancient State, or politie, or Church, nor by any Statute left us by our Ancestors elder or later; nor from the moderne custom of any reformed Citty, or Church abroad; but from the most Antichristian Councel and the most tyrannous Inquisition that ever inquir'd. Till then Books were ever as freely admitted into the World as any other birth; the issue of the brain was no more stifl'd then the issue of the womb: no envious *Juno* sate cros-leg'd over the nativity of any mans intellectuall off spring; but if it prov'd a Monster, who denies, but that it was justly burnt, or sunk into the Sea. But that a Book in wors condition then a peccant soul, should be to stand before a Jury ere it be borne to the World, and undergo yet in darknesse the judgement of *Radamanth* and his Collegues, ere it can pass the ferry backward into light, was never heard before, till that mysterious iniquity, provokt and troubl'd at the first entrance of Reformation, sought out new limbo's and new hells wherein they might include our Books also within the number of their damned. And this was the rare morsell so officiously snatcht up, and so ilfavourdly imitated by our inquisiturient Bishops, and the attendant minorites their Chaplains. That ye like not now these most certain Authors of this licencing order, and that all sinister intention was farre distant from your thoughts, when ye were importun'd the passing it, all men who know the integrity of your actions, and how ye honour Truth, will clear yee readily.
